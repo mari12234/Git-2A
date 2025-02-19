@@ -1,0 +1,5 @@
+es un ejemplo de como agregar o actualizar datos desde github y verlod en vs-code
+para realizar estos utilizamos el camando
+git pull origin master 
+o si trabajas en la rama main 
+git puul origin main 
